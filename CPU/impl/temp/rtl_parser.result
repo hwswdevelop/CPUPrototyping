@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/Projects/FPGA/CPU/CPU/src/alu.v",
+  "InstLine" : 8,
+  "InstName" : "alu",
+  "ModuleFile" : "D:/Projects/FPGA/CPU/CPU/src/alu.v",
+  "ModuleLine" : 8,
+  "ModuleName" : "alu"
+ }
+]

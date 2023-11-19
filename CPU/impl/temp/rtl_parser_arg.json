@@ -1,0 +1,20 @@
+{
+ "Files" : [
+  {
+   "Path" : "D:/Projects/FPGA/CPU/CPU/src/alu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Projects/FPGA/CPU/CPU/src/regfile.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Projects/FPGA/CPU/CPU/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

@@ -1,0 +1,65 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\Projects\FPGA\CPU\CPU\src\alu.v'
+Analyzing Verilog file 'D:\Projects\FPGA\CPU\CPU\src\regfile.v'
+Compiling module 'regfile'("D:\Projects\FPGA\CPU\CPU\src\regfile.v":1)
+Extracting RAM for identifier 'registers'("D:\Projects\FPGA\CPU\CPU\src\regfile.v":11)
+NOTE  (EX0101) : Current top module is "regfile"
+WARN  (EX0211) : The output port "reg_out1[15]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[14]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[13]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[12]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[11]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[10]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[9]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[8]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[7]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[6]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[5]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[4]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[3]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[2]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[1]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out1[0]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":8)
+WARN  (EX0211) : The output port "reg_out2[15]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[14]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[13]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[12]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[11]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[10]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[9]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[8]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[7]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[6]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[5]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[4]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[3]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[2]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[1]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+WARN  (EX0211) : The output port "reg_out2[0]" of module "regfile" has no driver, assigning undriven bits to Z, simulation mismatch possible("D:\Projects\FPGA\CPU\CPU\src\regfile.v":9)
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input reset is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":2)
+WARN  (CV0016) : Input clk is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":3)
+WARN  (CV0016) : Input sel_out1 is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":4)
+WARN  (CV0016) : Input sel_out2 is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":5)
+WARN  (CV0016) : Input sel_in is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":6)
+WARN  (CV0016) : Input wr is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":7)
+WARN  (CV0016) : Input reg_in is unused("D:\Projects\FPGA\CPU\CPU\src\regfile.v":10)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\Projects\FPGA\CPU\CPU\impl\gwsynthesis\CPU.vg" completed
+[100%] Generate report file "D:\Projects\FPGA\CPU\CPU\impl\gwsynthesis\CPU_syn.rpt.html" completed
+GowinSynthesis finish
